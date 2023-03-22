@@ -1,0 +1,21 @@
+.row-vega {
+    display: flex;
+}
+
+.row-vega > div {
+    flex: 1;
+    background: white;
+    border: 1px solid gray;
+}
+
+.row-vega-red > div {
+    background: red;
+}
+
+.row-vega-gray > div {
+    background: lightgray;
+}
+
+.row-vega-blue > div {
+    background: blue;
+}
